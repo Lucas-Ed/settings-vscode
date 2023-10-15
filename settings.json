@@ -34,7 +34,6 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "sync.forceUpload": true,
     "ibm-blockchain-platform.ext.enableLocalFabric": true,
-    "window.zoomLevel": -1,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -42,5 +41,8 @@
         "editor.formatOnType": true
     },
     "git.openRepositoryInParentFolders": "always",
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.zoomLevel": -1
 }
