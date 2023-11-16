@@ -1,6 +1,7 @@
 {
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.sqlite3": "default"
     },
     "editor.inlineSuggest.enabled": true,
     "workbench.iconTheme": "material-icon-theme",
@@ -44,5 +45,5 @@
     "tabnine.experimentalAutoImports": true,
     "terminal.integrated.env.windows": {},
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "window.zoomLevel": -1
+    "window.zoomLevel": -2
 }
